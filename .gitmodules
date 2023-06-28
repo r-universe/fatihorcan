@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MonteCarloSEM"]
 	path = MonteCarloSEM
 	url = https://github.com/cran/MonteCarloSEM
-	shallow = true
-	registered = true
